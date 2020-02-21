@@ -1,0 +1,8 @@
+{
+  "Records": [
+    {
+      "eventVersion": "2.0",
+      "eventSource": "aws:s3"
+    }
+  ]
+}
